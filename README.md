@@ -1,6 +1,7 @@
 # Weekend Bootcamp Front End - Praxis Academy
 Repository ini berisi tentang materi dan tugas selama bootcamp 
-Minggu 01
+
+*Minggu 01
 
 Hari 1: Ekosistem dan Pemrograman Dasar JavaScript
 
@@ -21,7 +22,7 @@ Hari 2: Function dan Struktur Data di JavaScript
     WeakMap dan WeakSet
     Date dan Time
 
-Minggu 02
+*Minggu 02
 
 Hari 1: Paradigma Pemrograman di JavaScript
 
@@ -35,9 +36,7 @@ Hari 2: Asynchronous Programming di JavaScript
     Promise
     Async/Await
 
-Minggu
-
-03
+*Minggu 03
 
 Hari 1: Error Handling, Manipulasi DOM
 
@@ -49,7 +48,7 @@ Hari 2: Lebih Lanjut dengan DOM dan JavaScript, Pengenalan Vue.js
     Node, CSS, dan Event DOM
     Dasar-dasar Vue.js
 
-Minggu 04
+*Minggu 04
 
 Hari 1: Lebih Lanjut Dengan Vue.js
 
